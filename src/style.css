@@ -1,0 +1,65 @@
+.inputs {
+    display: flex;
+    background-color: DodgerBlue;
+    margin: 13px;
+    padding: 20px;
+    justify-content: space-around;
+
+    }
+.checked {
+    
+   flex-direction: row;
+
+   display: flex;
+   gap: 120px;
+}
+.table {
+    width: 99%;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+  }
+.text{
+    margin-top: 25px;
+    margin-bottom: 10px;
+    color: DodgerBlue;
+    padding-bottom: 3%;
+    padding-left: 1%;
+    padding-right: 1%;
+}
+.curve {
+   
+    width: 300px;
+
+}
+.card2{
+    width: 80rem;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 2%;
+}
+.par{
+    padding-bottom: 2%;
+    padding-left: 1%;
+    padding-right: 15%;
+}
+.tbody{
+    
+    padding-left: 1%;
+    padding-right: 1%;
+  }
+.chart {
+    padding-left: 10%;
+    padding-right: 10%;
+    margin-left: auto;
+    margin-right: auto;
+    width: '1000px';
+    height: '1000px';
+    padding-bottom: 5%;
+}
+.death {
+     color: red;
+}
+.case {
+    color: rgb(63, 163, 194);
+}
